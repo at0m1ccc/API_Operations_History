@@ -1,1 +1,1 @@
-# API_Operations_History
+"API_Operations_History" - проект для банка, который отслеживает банковские опреции клиентов.
